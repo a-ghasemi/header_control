@@ -8,7 +8,8 @@
     ],
     "require": {
         "jenssegers/blade": "^1.3",
-        "php-amqplib/php-amqplib": "^2.12"
+        "php-amqplib/php-amqplib": "^2.12",
+        "pusher/pusher-php-server": "^4.1"
     },
     "autoload": {
         "psr-4": {
